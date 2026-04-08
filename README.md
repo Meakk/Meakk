@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-I'm R&D Team Leader at [z-emotion](https://z-emotion.com/), a company developing cutting-edge software for garment design 👚.  
 My core interests lie in interactive physics simulation (particularly cloth dynamics) and real-time 3D visualization.  
 Lately, like many in the field, I've also been exploring machine learning techniques aimed at accelerating traditionally time-consuming simulations through data-driven or self-supervised models.
 
-By night, I maintain [F3D](https://f3d.app), a lightweight yet powerful cross-platform 3D viewer designed for simplicity, speed, and versatility.
+I maintain [F3D](https://f3d.app), a lightweight yet powerful cross-platform 3D viewer designed for simplicity, speed, and versatility.
 - 🔗 https://github.com/f3d-app/f3d
-- 3600+ ⭐
+- 4300+ ⭐
 - 🌐 https://f3d.app
+
+Feel free to drop me an email at mcmigliore@gmail.com for consulting inquiries.
 
 <!--
 **Meakk/Meakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
