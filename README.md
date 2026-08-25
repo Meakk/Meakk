@@ -5,7 +5,7 @@ Lately, like many in the field, I've also been exploring machine learning techni
 
 I maintain [F3D](https://f3d.app), a lightweight yet powerful cross-platform 3D viewer designed for simplicity, speed, and versatility.
 - 🔗 https://github.com/f3d-app/f3d
-- 4300+ ⭐
+- 4700+ ⭐
 - 🌐 https://f3d.app
 
 Feel free to drop me an email at mcmigliore@gmail.com for consulting inquiries.
